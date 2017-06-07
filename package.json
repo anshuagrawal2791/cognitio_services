@@ -1,0 +1,24 @@
+{
+  "name": "services",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anshuman Agrawal",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "connect": "^3.5.0",
+    "crypto": "^0.0.3",
+    "express": "^4.13.4",
+    "mongoose": "^4.6.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://anshuagrawal2791mydhees@bitbucket.org/anshuagrawal2791mydhees/cognitio_services.git"
+  },
+  "homepage": "https://bitbucket.org/anshuagrawal2791mydhees/cognitio_services#readme",
+  "description": ""
+}
